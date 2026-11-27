@@ -34,7 +34,7 @@ pacientes de demonstração (5 internados e 5 com alta registrada). Os dados fic
 1. Instale o [.NET SDK 10](https://dotnet.microsoft.com/download) ou superior.
 2. Clone o repositório:
    ```
-   git clone https://github.com/SEU-USUARIO/enfermaria-fsharp.git
+   git clone https://github.com/juhtiemi/enfermaria-fsharp.git
    cd enfermaria-fsharp
    ```
 3. Execute:
